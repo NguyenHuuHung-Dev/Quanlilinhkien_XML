@@ -1,0 +1,130 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.User.master.cs" Inherits="QuanLyLinhKienPC.SiteUserMaster" %>
+
+<!DOCTYPE html>
+<html lang="vi">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - DevStore</title>
+    
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    
+    <style>
+        /* --- OCEAN BLUE THEME (Toàn cục) --- */
+        :root {
+            --primary: #0ea5e9;       /* Sky 500 */
+            --primary-dark: #0284c7;  /* Sky 600 */
+            --text-dark: #0f172a;     /* Slate 900 */
+            --glass-bg: rgba(255, 255, 255, 0.9);
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background-color: #f8fafc;
+            padding-top: 75px; /* Tránh nội dung bị Navbar che */
+        }
+
+        /* Navbar Style */
+        .navbar-custom {
+            position: fixed; top: 0; left: 0; right: 0;
+            height: 70px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(14, 165, 233, 0.15);
+            z-index: 1000;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+
+        .nav-container {
+            max-width: 1200px; margin: 0 auto; padding: 0 20px;
+            height: 100%; display: flex; align-items: center; justify-content: space-between;
+        }
+
+        .nav-logo {
+            font-weight: 800; font-size: 1.4rem; color: var(--text-dark); text-decoration: none; display: flex; align-items: center; gap: 10px;
+        }
+        .logo-icon {
+            width: 35px; height: 35px; background: var(--primary); color: white;
+            border-radius: 8px; display: flex; align-items: center; justify-content: center;
+        }
+
+        .nav-menu a {
+            color: #64748b; font-weight: 600; text-decoration: none; margin: 0 15px; transition: 0.2s;
+        }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--primary); }
+
+        .btn-logout {
+            color: #ef4444 !important; /* Màu đỏ */
+            cursor: pointer;
+        }
+        
+        .user-info {
+            font-weight: 700; color: var(--primary-dark);
+            display: flex; align-items: center; gap: 10px;
+        }
+
+        footer { margin-top: 50px; padding: 30px 0; border-top: 1px solid #e2e8f0; text-align: center; color: #94a3b8; }
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+            </Scripts>
+        </asp:ScriptManager>
+
+        <nav class="navbar-custom">
+            <div class="nav-container">
+                <a href="Default.aspx" class="nav-logo">
+                    <div class="logo-icon">H</div>
+                    <span>Dev<span style="color: var(--primary)">Store</span></span>
+                </a>
+
+                <div class="nav-menu d-none d-md-flex">
+                    <a href="Default.aspx"><i class="fas fa-home"></i> Trang chủ</a>
+                    <a href="#"><i class="fas fa-microchip"></i> Sản phẩm</a>
+                    <a href="GioHang.aspx"><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
+                </div>
+
+                <div class="d-flex align-items-center gap-3">
+                    <%-- LOGIC KIỂM TRA ĐĂNG NHẬP --%>
+                    <% if (Session["User"] == null) { %>
+                        
+                        <a href="Login.aspx" class="btn btn-primary rounded-pill px-4 fw-bold shadow-sm" style="background: var(--primary); border: none;">
+                            Đăng Nhập
+                        </a>
+
+                    <% } else { %>
+                        
+                        <div class="user-info">
+                            <span>Hi, <%= Session["User"] %></span>
+                            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="btn btn-outline-danger btn-sm rounded-pill px-3" ToolTip="Đăng xuất">
+                                <i class="fas fa-sign-out-alt"></i>
+                            </asp:LinkButton>
+                        </div>
+
+                    <% } %>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - DevStore Ocean Theme</p>
+            </footer>
+        </div>
+
+    </form>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

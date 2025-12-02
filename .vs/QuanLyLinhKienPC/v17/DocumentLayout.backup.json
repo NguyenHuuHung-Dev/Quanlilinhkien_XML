@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\admin.master||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\admin.master||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\quanlysanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlysanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\site.user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\site.user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\site.user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\site.user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\thanhcong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\thanhcong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\thanhtoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\thanhtoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|c:\\users\\admin\\downloads\\quanlilinhkien_xml-main\\quanlilinhkien_xml-main\\quanlylinhkienpc\\quanlykhachhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlykhachhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\quanlydanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydanhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\app_code\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\app_code\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\chitietsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\themsuasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\themsuasanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\quanlylinhkienpc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.Master.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.Master.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Site.Master.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:59:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.User.Master.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.User.Master.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Site.User.Master.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.User.Master.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Site.User.Master.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:55:53.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Login.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Login.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:48:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Login.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Login.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Login.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:42:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\GioHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\GioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\GioHang.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\GioHang.aspx.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAzwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:43:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\GioHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\GioHang.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\GioHang.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:42:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThanhCong.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThanhCong.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\ThanhCong.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThanhCong.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\ThanhCong.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:43:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThanhToan.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThanhToan.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\ThanhToan.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThanhToan.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\ThanhToan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:43:07.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.User.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.User.Master",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Site.User.Master",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.User.Master",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Site.User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:17:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.Master",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Site.Master",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Site.Master",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:39:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ViewSwitcher.ascx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-02T14:38:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Default.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Default.aspx.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:18:16.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Default.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Default.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Default.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:17:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLyKhachHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyKhachHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyKhachHang.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyKhachHang.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyKhachHang.aspx.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAQwNQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:13:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\App_Code\\DBHelper.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\App_Code\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\App_Code\\DBHelper.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\App_Code\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:41:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChiTietSanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ChiTietSanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\ChiTietSanPham.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ChiTietSanPham.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\ChiTietSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:46:22.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThemSuaSanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThemSuaSanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\ThemSuaSanPham.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\ThemSuaSanPham.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\ThemSuaSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:45:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuanLyKhachHang.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyKhachHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyKhachHang.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyKhachHang.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyKhachHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:44:35.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuanLyDanhMuc.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDanhMuc.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyDanhMuc.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDanhMuc.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyDanhMuc.aspx.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAQwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:42:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuanLyDanhMuc.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDanhMuc.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyDanhMuc.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDanhMuc.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyDanhMuc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:33:26.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Admin.Master.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Admin.Master.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Admin.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:32:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Admin.Master",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Admin.Master",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Admin.Master",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:23:34.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLySanPham.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLySanPham.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLySanPham.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLySanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T09:14:38.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySanPham.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLySanPham.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLySanPham.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLySanPham.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLySanPham.aspx.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAmwIYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:17:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Web.config",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Web.config",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\Web.config",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Web.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-02T09:06:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuanLyDonHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDonHang.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyDonHang.aspx.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDonHang.aspx.cs",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyDonHang.aspx.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAQwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:06:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuanLyDonHang.aspx",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDonHang.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\QuanLyDonHang.aspx",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Quanlilinhkien_XML-main\\Quanlilinhkien_XML-main\\QuanLyLinhKienPC\\QuanLyDonHang.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyDonHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T08:05:25.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
