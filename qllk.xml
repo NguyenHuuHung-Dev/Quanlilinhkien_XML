@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SanPham>
+    <MaSP>1</MaSP>
+    <TenSP>CPU Intel Core i5-12400F (Lô Mới)</TenSP>
+    <MaSKU>CPU-INT-12400F-NEW</MaSKU>
+    <HinhAnh>CPU-INT-12400F.jpg</HinhAnh>
+    <MaDanhMuc>4</MaDanhMuc>
+    <MaNCC>1</MaNCC>
+    <GiaBan>3500000</GiaBan>
+    <SoLuongTon>50</SoLuongTon>
+    <ThongSoKyThuat>Socket: LGA1700, 6 Cores, 12 Threads, Clock: 2.5GHz</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-02T09:28:56+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>2</MaSP>
+    <TenSP>CPU AMD Ryzen 5 5600X (Lô Mới)</TenSP>
+    <MaSKU>CPU-AMD-5600X-NEW</MaSKU>
+    <HinhAnh>CPU-AMD-5600X.jpg</HinhAnh>
+    <MaDanhMuc>4</MaDanhMuc>
+    <MaNCC>2</MaNCC>
+    <GiaBan>3900000</GiaBan>
+    <SoLuongTon>45</SoLuongTon>
+    <ThongSoKyThuat>Socket: AM4, 6 Cores, 12 Threads, Clock: 3.7GHz</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-02T09:28:56+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>3</MaSP>
+    <TenSP>RAM Kingston Fury Beast 8GB (Lô Mới)</TenSP>
+    <MaSKU>RAM-KIN-D4-8G-NEW</MaSKU>
+    <HinhAnh>RAM-KIN-D4-8G.jpg</HinhAnh>
+    <MaDanhMuc>5</MaDanhMuc>
+    <MaNCC>3</MaNCC>
+    <GiaBan>650000</GiaBan>
+    <SoLuongTon>120</SoLuongTon>
+    <ThongSoKyThuat>Bus: 3200MHz, CL16, DDR4</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-02T09:28:56+07:00</NgayTao>
+  </SanPham>
+</NewDataSet>
