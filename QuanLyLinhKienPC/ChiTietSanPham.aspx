@@ -144,7 +144,7 @@
                             <asp:TextBox ID="txtSoLuong" runat="server" TextMode="Number" Text="1" min="1" CssClass="qty-input form-control"></asp:TextBox>
                         </div>
                         <div class="flex-grow-1">
-                            <asp:Button ID="btnMua" runat="server" Text="Thêm Vào Giỏ Hàng" OnClick="btnMua_Click" CssClass="btn btn-buy w-100" />
+                            <asp:Button ID="btnMua" runat="server" Text="Thêm Vào Giỏ Hàng"  CssClass="btn btn-buy w-100" />
                         </div>
                     </div>
                     

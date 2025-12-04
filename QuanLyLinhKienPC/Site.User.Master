@@ -89,7 +89,7 @@
                 <div class="nav-menu d-none d-md-flex">
                     <a href="Default.aspx"><i class="fas fa-home"></i> Trang chủ</a>
                     <a href="#"><i class="fas fa-microchip"></i> Sản phẩm</a>
-                    <a href="GioHang.aspx"><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
+                    <a href="#"><i class="fas fa-shopping-cart"></i> Giỏ hàng</a>
                 </div>
 
                 <div class="d-flex align-items-center gap-3">

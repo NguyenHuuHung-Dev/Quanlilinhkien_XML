@@ -8,13 +8,11 @@ namespace QuanLyLinhKienPC
 {
     public partial class _Default : System.Web.UI.Page
     {
-        // Giả sử bạn đã có lớp DBHelper. Nếu chưa, hãy dùng SqlConnection trực tiếp.
         DBHelper db = new DBHelper();
 
         public int CurrentPage = 1;
         public int TotalPages = 0;
 
-        // Tăng số lượng sản phẩm mỗi trang lên 12 cho lưới đẹp (4 cột x 3 hàng)
         int PageSize = 12;
 
         protected void Page_Load(object sender, EventArgs e)
@@ -36,8 +34,6 @@ namespace QuanLyLinhKienPC
         {
             int offset = (CurrentPage - 1) * PageSize;
 
-            // Query lấy dữ liệu hiển thị, bao gồm Số Lượng Tồn để check trạng thái
-            // Sắp xếp theo ID giảm dần (Sản phẩm mới nhất lên đầu)
             string sqlData = @"
                 SELECT sp.MaSP, sp.TenSP, sp.GiaBan, sp.HinhAnh, sp.SoLuongTon, dm.TenDanhMuc 
                 FROM SanPham sp 
@@ -75,7 +71,6 @@ namespace QuanLyLinhKienPC
 
         protected void rptSanPham_ItemCommand(object source, RepeaterCommandEventArgs e)
         {
-            // Kiểm tra session đăng nhập (Tuỳ chọn)
             if (Session["User"] == null)
             {
                 Response.Redirect("Login.aspx?returnUrl=Default.aspx");
@@ -87,7 +82,6 @@ namespace QuanLyLinhKienPC
                 string id = e.CommandArgument.ToString();
                 ThemVaoGioHang(id);
 
-                // Refresh lại trang để cập nhật số lượng trên icon giỏ hàng (nếu MasterPage có hiển thị)
                 Response.Redirect("Default.aspx?page=" + CurrentPage);
             }
         }
@@ -125,7 +119,6 @@ namespace QuanLyLinhKienPC
 
             if (!daCo)
             {
-                // Lấy thông tin sản phẩm để thêm vào giỏ
                 string sql = "SELECT MaSP, TenSP, HinhAnh, GiaBan FROM SanPham WHERE MaSP = @ID";
                 SqlParameter[] p = { new SqlParameter("@ID", id) };
 
@@ -139,7 +132,6 @@ namespace QuanLyLinhKienPC
 
             Session["Cart"] = gioHang;
 
-            // Tính tổng số lượng item
             int tongSL = 0;
             foreach (DataRow dr in gioHang.Rows) tongSL += (int)dr["SoLuong"];
             Session["CartCount"] = tongSL;

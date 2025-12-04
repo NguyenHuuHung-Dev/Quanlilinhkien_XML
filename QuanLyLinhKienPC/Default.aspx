@@ -4,12 +4,11 @@
 
     <style>
         :root {
-            /* Bảng màu Ocean Blue */
-            --primary: #0ea5e9;       /* Sky 500 */
-            --primary-dark: #0284c7;  /* Sky 600 */
-            --bg-light: #f0f9ff;      /* Sky 50 */
-            --text-dark: #0f172a;     /* Slate 900 */
-            --text-gray: #64748b;     /* Slate 500 */
+            --primary: #0ea5e9;      
+            --primary-dark: #0284c7; 
+            --bg-light: #f0f9ff;    
+            --text-dark: #0f172a;     
+            --text-gray: #64748b;     
             --glass-bg: rgba(255, 255, 255, 0.85);
             --glass-border: rgba(255, 255, 255, 0.5);
         }
@@ -19,16 +18,17 @@
             background-color: white;
             color: var(--text-dark);
             overflow-x: hidden;
-            padding-top: 70px; /* Để nội dung không bị Navbar che mất */
+            padding-top: 70px; 
         }
 
-        /* --- 1. ADVANCED NAVIGATION BAR (Port từ React) --- */
+        /* --- 1. NAVBAR CONTAINER CHÍNH --- */
         .navbar-custom {
             position: fixed;
             top: 0; left: 0; right: 0;
             height: 70px;
+            background: rgba(255, 255, 255, 0.85); 
             background: var(--glass-bg);
-            backdrop-filter: blur(12px); /* Hiệu ứng kính mờ */
+            backdrop-filter: blur(12px);
             border-bottom: 1px solid rgba(14, 165, 233, 0.15);
             z-index: 1000;
             transition: all 0.3s ease;
@@ -41,20 +41,20 @@
             height: 100%;
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: space-between; 
+            flex-wrap: nowrap; 
         }
 
-        /* Logo Area */
         .nav-logo {
             display: flex;
             align-items: center;
-            cursor: pointer;
             text-decoration: none;
             color: var(--text-dark);
             font-weight: 800;
             font-size: 1.3rem;
+            flex-shrink: 0; 
         }
-        
+
         .logo-icon {
             width: 40px; height: 40px;
             background: var(--primary);
@@ -65,50 +65,33 @@
             margin-right: 10px;
             transition: transform 0.3s;
         }
-        .nav-logo:hover .logo-icon { transform: rotate(12deg); }
 
-        /* Desktop Menu */
         .nav-menu {
             display: flex;
             align-items: center;
             gap: 25px;
+            flex-shrink: 1;
         }
 
         .nav-link {
-            position: relative;
             display: flex;
             align-items: center;
             gap: 6px;
             color: var(--text-gray);
             font-weight: 600;
-            font-size: 0.95rem;
             text-decoration: none;
-            transition: color 0.2s;
+            white-space: nowrap;
         }
-        .nav-link i { font-size: 1rem; }
-        
-        .nav-link:hover, .nav-link.active { color: var(--primary); }
-        
-        .nav-link::after {
-            content: '';
-            position: absolute;
-            bottom: -5px; left: 0;
-            width: 0%; height: 2px;
-            background: var(--primary);
-            transition: width 0.3s;
-        }
-        .nav-link:hover::after, .nav-link.active::after { width: 100%; }
 
-        /* Right Actions Area */
         .nav-actions {
             display: flex;
             align-items: center;
             gap: 15px;
             padding-left: 20px;
             border-left: 1px solid #e2e8f0;
+            flex-shrink: 0; 
         }
 
-        /* Search Bar */
         .search-box {
             position: relative;
             display: flex;
@@ -116,73 +99,81 @@
             background: #f1f5f9;
             border-radius: 50px;
             padding: 8px 15px;
-            border: 1px solid transparent;
             transition: all 0.3s;
         }
-        .search-box:focus-within {
-            background: white;
-            border-color: var(--primary);
-            box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.1);
-        }
         .search-box input {
-            border: none;
-            background: transparent;
-            outline: none;
-            font-size: 0.9rem;
-            color: var(--text-dark);
-            width: 120px;
-            margin-left: 8px;
+            border: none; background: transparent; outline: none;
+            font-size: 0.9rem; width: 120px; margin-left: 8px;
             transition: width 0.3s;
         }
-        .search-box input:focus { width: 180px; }
-        /* --- Style mới cho các nút vừa chuyển lên --- */
+        .search-box input:focus { width: 160px; }
 
-/* Nút Đăng nhập Gradient đẹp mắt */
-.btn-login-nav {
-    padding: 8px 20px;
-    background: linear-gradient(to right, #0ea5e9, #2563eb); /* Xanh biển đậm */
-    color: white !important;
-    border-radius: 50px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    text-decoration: none;
-    box-shadow: 0 4px 10px rgba(14, 165, 233, 0.3);
-    transition: all 0.3s ease;
-    display: flex; align-items: center; gap: 8px;
-}
-.btn-login-nav:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 15px rgba(14, 165, 233, 0.5);
-    background: linear-gradient(to right, #0284c7, #1d4ed8);
-}
+        .user-profile-nav {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-weight: 700;
+            color: var(--primary-dark);
+            font-size: 0.9rem;
+            white-space: nowrap;
+        }
 
-/* Badge số lượng giỏ hàng (Chấm đỏ) */
-.badge-count {
-    position: absolute;
-    top: -5px; right: -5px;
-    background-color: #ef4444; /* Màu đỏ */
-    color: white;
-    font-size: 0.7rem;
-    font-weight: bold;
-    width: 18px; height: 18px;
-    border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    border: 2px solid white;
-}
+        .btn-login-nav {
+            padding: 8px 20px;
+            background: linear-gradient(to right, #0ea5e9, #2563eb);
+            color: white !important;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-decoration: none;
+            white-space: nowrap; 
+            display: flex; align-items: center; gap: 8px;
+        }
 
-/* User profile khi đã đăng nhập */
-.user-profile-nav {
-    font-weight: 700;
-    color: var(--primary-dark);
-    font-size: 0.9rem;
-    display: flex; align-items: center;
-}
+        .btn-icon {
+            width: 40px; height: 40px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 50%;
+            border: none; background: transparent;
+            color: var(--text-gray);
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+        .btn-icon:hover { background-color: #f1f5f9; color: var(--primary); }
 
-/* Ẩn thanh xanh cũ (Nếu bạn không tìm thấy code để xóa thì dùng CSS đè lên) */
-/* Giả sử class cũ của thanh xanh là .header-bottom hoặc .pc-shop-bar */
-.header-bottom, .pc-shop-header {
-    display: none !important;
-}
+        .badge-count {
+            position: absolute; top: 0; right: 0;
+            background-color: #ef4444; color: white;
+            font-size: 0.7rem; font-weight: bold;
+            width: 18px; height: 18px;
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            border: 2px solid white;
+        }
+        .mobile-toggle { display: none; font-size: 1.5rem; cursor: pointer; color: var(--text-dark); }
+
+        @media (max-width: 992px) {
+            .nav-menu { display: none; }
+            .mobile-toggle { display: block; margin-left: 10px; }    
+            .search-box input { width: 80px; }
+            .search-box input:focus { width: 120px; }    
+            .nav-container { padding: 0 15px; }
+        }
+
+        @media (max-width: 576px) {
+            .search-box { display: none; } 
+            .user-profile-nav span { display: none; } 
+            .btn-login-nav span { display: none; } 
+            .btn-login-nav { padding: 8px; border-radius: 50%; }
+        }
+
+        /* Ẩn thanh xanh cũ (Nếu bạn không tìm thấy code để xóa thì dùng CSS đè lên) */
+        /* Giả sử class cũ của thanh xanh là .header-bottom hoặc .pc-shop-bar */
+        .header-bottom, .pc-shop-header {
+            display: none !important;
+        }
         /* Action Buttons (Note, Theme, Lang) */
         .btn-icon {
             width: 38px; height: 38px;
@@ -328,7 +319,7 @@
                 <input type="text" id="searchInput" placeholder="Tìm kiếm..." onkeydown="handleSearch(event)" />
             </div>
 
-            <a href="GioHang.aspx" class="btn-icon" title="Giỏ hàng" style="text-decoration: none; position: relative;">
+            <a href="#" class="btn-icon" title="Giỏ hàng" style="text-decoration: none; position: relative;">
                 <i class="fas fa-shopping-cart"></i>
                 <%-- Hiển thị số lượng nếu > 0 --%>
                 <% if (Session["CartCount"] != null && (int)Session["CartCount"] > 0) { %>
@@ -342,9 +333,9 @@
                 </a>
             <% } else { %>
                 <div class="user-profile-nav">
-                    <span>Hi, User</span> <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="btn-logout">
-    <i class="fas fa-sign-out-alt"></i> Đăng Xuất
-</asp:LinkButton>
+                    <span>Hi, <%= Session["User"] %></span> <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="btn-logout">
+        <i class="fas fa-sign-out-alt"></i> Đăng Xuất
+        </asp:LinkButton>
                 </div>
             <% } %>
 

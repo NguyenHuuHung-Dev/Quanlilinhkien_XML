@@ -186,7 +186,6 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
-    <Content Include="GioHang.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Images\Products\639002802146036068_mayvitinhzzz.jpg" />
     <Content Include="Images\Products\639002806818073056_laptop-vien.jpg" />
@@ -225,7 +224,6 @@
     <Content Include="Images\Products\RamSS.jpg" />
     <Content Include="Images\Products\SSD.jpg" />
     <Content Include="Images\Products\SSDSamSung.jpg" />
-    <Content Include="LichSuDonHang.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="obj\Debug\QuanLyLinhKienPC.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\QuanLyLinhKienPC.dll" />
@@ -265,8 +263,6 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
-    <Content Include="ThanhCong.aspx" />
-    <Content Include="ThanhToan.aspx" />
     <Content Include="ThemSuaSanPham.aspx" />
     <Content Include="bin\QuanLyLinhKienPC.dll.config" />
     <Content Include="bin\roslyn\csc.exe.config" />
@@ -314,7 +310,6 @@
     <Content Include="Scripts\WebForms\WebForms.js" />
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
-    <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -359,22 +354,8 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="GioHang.aspx.cs">
-      <DependentUpon>GioHang.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="GioHang.aspx.designer.cs">
-      <DependentUpon>GioHang.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="LichSuDonHang.aspx.cs">
-      <DependentUpon>LichSuDonHang.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LichSuDonHang.aspx.designer.cs">
-      <DependentUpon>LichSuDonHang.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
@@ -413,33 +394,12 @@
     <Compile Include="QuanLySanPham.aspx.designer.cs">
       <DependentUpon>QuanLySanPham.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
     <Compile Include="Site.User.Master.cs">
       <DependentUpon>Site.User.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site.User.Master.designer.cs">
       <DependentUpon>Site.User.Master</DependentUpon>
-    </Compile>
-    <Compile Include="ThanhCong.aspx.cs">
-      <DependentUpon>ThanhCong.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ThanhCong.aspx.designer.cs">
-      <DependentUpon>ThanhCong.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ThanhToan.aspx.cs">
-      <DependentUpon>ThanhToan.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ThanhToan.aspx.designer.cs">
-      <DependentUpon>ThanhToan.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>

@@ -219,16 +219,19 @@
                 </li>
 
                   <li class="menu-label">Tổng Quan</li>
-  <li>
-      <a href="#" class='<%= Request.Url.AbsolutePath.Contains("Dashboard") ? "active" : "" %>'>
-          <i class="fas fa-chart-pie"></i> Thống Kê
-      </a>
-  </li>
+              <li>
+                  <a href="#" class='<%= Request.Url.AbsolutePath.Contains("Dashboard") ? "active" : "" %>'>
+                      <i class="fas fa-chart-pie"></i> Thống Kê
+                  </a>
+              </li>
 
-                <li style="margin-top: auto; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 10px;">
-                    <a href="Login.aspx?logout=true" class="text-danger-hover">
+               <li class="nav-item">
+                    <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" 
+                        CssClass="nav-link" 
+                        CausesValidation="false"> 
+        
                         <i class="fas fa-sign-out-alt"></i> Đăng Xuất
-                    </a>
+                    </asp:LinkButton>
                 </li>
 
             </ul>
@@ -248,8 +251,8 @@
 
                     <div class="user-profile">
                         <div class="user-info d-none d-sm-block">
-                            <div class="user-name">Admin Master</div>
-                            <div class="user-role">Super Admin</div>
+                            <div class="user-name"><%= Session["User"] %></div>
+                            <div class="user-role">Quản Trị Viên</div>
                         </div>
                         <img src="https://ui-avatars.com/api/?name=Admin+Master&background=6366f1&color=fff&bold=true" class="rounded-circle shadow-sm" width="40" height="40" alt="Avatar">
                     </div>
