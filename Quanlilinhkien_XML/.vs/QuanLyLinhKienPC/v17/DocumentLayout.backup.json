@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydonhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\quanlylinhkienpc\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlykhachhang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\quanlylinhkienpc\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlydanhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\quanlylinhkienpc\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\quanlysanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyKhachHang.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-06T13:17:17.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T13:17:17.833Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "QuanLyLinhKienPC\\QuanLyDanhMuc.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-06T13:14:59.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T13:14:59.438Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "QuanLyLinhKienPC\\QuanLySanPham.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-06T12:59:32.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T12:59:32.84Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "QuanLyLinhKienPC\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-04T09:00:32.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T09:00:32.39Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "QuanLyLinhKienPC\\Site.User.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-04T09:00:48.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T09:00:48.76Z"
             },
             {
               "$type": "Document",
@@ -130,7 +125,6 @@
               "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Admin.Master",
               "ToolTip": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Admin.Master",
               "RelativeToolTip": "QuanLyLinhKienPC\\Admin.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-04T08:50:21.243Z",
               "EditorCaption": ""

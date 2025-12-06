@@ -3,7 +3,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     
     <style>
-        /* CSS Tinh chỉnh Toolbar */
         .toolbar-container {
             background-color: #ffffff;
             border-radius: 12px;
@@ -12,7 +11,6 @@
             margin-bottom: 20px;
         }
 
-        /* Input và Select nhỏ gọn (sm) */
         .form-control-sm, .form-select-sm {
             border-color: #e2e8f0;
             background-color: #f8fafc;
@@ -23,7 +21,6 @@
             box-shadow: none;
         }
 
-        /* Nút bấm nhỏ gọn */
         .btn-sm-custom {
             padding: 5px 12px;
             font-size: 0.85rem;
@@ -31,13 +28,11 @@
             border-radius: 6px;
         }
 
-        /* Card Card content */
         .tech-card {
             background: white; border: none; border-radius: 12px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
         
-        /* Table Styles */
         .tech-table thead { background-color: #f1f5f9; color: #475569; }
         .tech-table th { font-weight: 600; padding: 12px; border: none; font-size: 0.8rem; text-transform: uppercase; }
         .tech-table td { vertical-align: middle; padding: 10px 12px; border-bottom: 1px solid #f8fafc; font-size: 0.9rem; }

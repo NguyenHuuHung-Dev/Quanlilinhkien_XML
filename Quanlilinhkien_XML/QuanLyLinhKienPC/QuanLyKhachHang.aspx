@@ -3,7 +3,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
     <style>
-        /* CSS Toolbar & General */
         .toolbar-container {
             background-color: #ffffff; border-radius: 12px; padding: 15px 20px;
             box-shadow: 0 2px 6px rgba(0,0,0,0.04); margin-bottom: 20px;
@@ -12,13 +11,11 @@
         .form-control-sm:focus, .form-select-sm:focus { background-color: #fff; border-color: #2563eb; }
         .btn-sm-custom { padding: 5px 12px; font-size: 0.85rem; font-weight: 600; border-radius: 6px; }
 
-        /* Card & Table */
         .tech-card { background: white; border: none; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
         .tech-table thead { background-color: #f1f5f9; color: #64748b; }
         .tech-table th { font-weight: 600; text-transform: uppercase; font-size: 0.8rem; border: none; padding: 12px; }
         .tech-table td { vertical-align: middle; border-bottom: 1px solid #f8fafc; padding: 12px; color: #334155; }
         
-        /* Avatar & Role */
         .avatar-circle {
             width: 36px; height: 36px; border-radius: 50%;
             background-color: #eff6ff; color: #2563eb;
