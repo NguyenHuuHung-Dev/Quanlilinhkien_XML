@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\site.user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\site.user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|d:\\hocki125\\cn_xml\\git\\quanlilinhkien_xml\\quanlylinhkienpc\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E508C6A7-FED3-4485-BCB2-3359DA957B01}|QuanLyLinhKienPC\\QuanLyLinhKienPC.csproj|solutionrelative:quanlylinhkienpc\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Default.aspx",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Default.aspx",
+              "ToolTip": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Default.aspx",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-04T09:00:32.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.User.Master",
+              "DocumentMoniker": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Site.User.Master",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Site.User.Master",
+              "ToolTip": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Site.User.Master",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Site.User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-04T09:00:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Admin.Master",
+              "RelativeDocumentMoniker": "QuanLyLinhKienPC\\Admin.Master",
+              "ToolTip": "D:\\HocKi125\\CN_XML\\Git\\Quanlilinhkien_XML\\QuanLyLinhKienPC\\Admin.Master",
+              "RelativeToolTip": "QuanLyLinhKienPC\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-04T08:50:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
