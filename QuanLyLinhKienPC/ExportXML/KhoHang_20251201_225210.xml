@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="SanPham" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="SanPham">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaSP" type="xs:int" minOccurs="0" />
+                <xs:element name="TenSP" type="xs:string" minOccurs="0" />
+                <xs:element name="MaSKU" type="xs:string" minOccurs="0" />
+                <xs:element name="MaDanhMuc" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:int" minOccurs="0" />
+                <xs:element name="GiaBan" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SoLuongTon" type="xs:int" minOccurs="0" />
+                <xs:element name="HinhAnh" type="xs:string" minOccurs="0" />
+                <xs:element name="ThongSoKyThuat" type="xs:string" minOccurs="0" />
+                <xs:element name="ThoiGianBaoHanh" type="xs:int" minOccurs="0" />
+                <xs:element name="NgayTao" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <SanPham>
+    <MaSP>1</MaSP>
+    <TenSP>CPU Intel Core i5-12400F</TenSP>
+    <MaSKU>CPU-INT-12400F</MaSKU>
+    <MaDanhMuc>4</MaDanhMuc>
+    <MaNCC>1</MaNCC>
+    <GiaBan>3500000</GiaBan>
+    <SoLuongTon>20</SoLuongTon>
+    <ThongSoKyThuat>Socket: LGA1700, 6 Cores, 12 Threads, Clock: 2.5GHz</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>2</MaSP>
+    <TenSP>CPU AMD Ryzen 5 5600X</TenSP>
+    <MaSKU>CPU-AMD-5600X</MaSKU>
+    <MaDanhMuc>4</MaDanhMuc>
+    <MaNCC>2</MaNCC>
+    <GiaBan>3900000</GiaBan>
+    <SoLuongTon>15</SoLuongTon>
+    <ThongSoKyThuat>Socket: AM4, 6 Cores, 12 Threads, Clock: 3.7GHz</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>3</MaSP>
+    <TenSP>RAM Kingston Fury Beast 8GB DDR4 3200MHz</TenSP>
+    <MaSKU>RAM-KIN-D4-8G</MaSKU>
+    <MaDanhMuc>5</MaDanhMuc>
+    <MaNCC>3</MaNCC>
+    <GiaBan>650000</GiaBan>
+    <SoLuongTon>100</SoLuongTon>
+    <ThongSoKyThuat>Bus: 3200MHz, CL16, DDR4</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>4</MaSP>
+    <TenSP>RAM Samsung 16GB DDR5 4800MHz (Laptop)</TenSP>
+    <MaSKU>RAM-SAM-D5-16G</MaSKU>
+    <MaDanhMuc>5</MaDanhMuc>
+    <MaNCC>4</MaNCC>
+    <GiaBan>1200000</GiaBan>
+    <SoLuongTon>50</SoLuongTon>
+    <ThongSoKyThuat>Bus: 4800MHz, DDR5, SODIMM (Laptop)</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>5</MaSP>
+    <TenSP>SSD Samsung 980 Pro 1TB NVMe M.2</TenSP>
+    <MaSKU>SSD-SAM-980-1T</MaSKU>
+    <MaDanhMuc>8</MaDanhMuc>
+    <MaNCC>4</MaNCC>
+    <GiaBan>2500000</GiaBan>
+    <SoLuongTon>30</SoLuongTon>
+    <ThongSoKyThuat>Tốc độ đọc: 7000MB/s, Ghi: 5000MB/s</ThongSoKyThuat>
+    <ThoiGianBaoHanh>60</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>6</MaSP>
+    <TenSP>HDD WD Blue 1TB 3.5"</TenSP>
+    <MaSKU>HDD-WD-1T</MaSKU>
+    <MaDanhMuc>9</MaDanhMuc>
+    <MaNCC>3</MaNCC>
+    <GiaBan>950000</GiaBan>
+    <SoLuongTon>40</SoLuongTon>
+    <ThongSoKyThuat>7200RPM, SATA 3</ThongSoKyThuat>
+    <ThoiGianBaoHanh>24</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>7</MaSP>
+    <TenSP>Màn hình Dell UltraSharp U2422H 24"</TenSP>
+    <MaSKU>MON-DELL-U24</MaSKU>
+    <MaDanhMuc>10</MaDanhMuc>
+    <MaNCC>7</MaNCC>
+    <GiaBan>5500000</GiaBan>
+    <SoLuongTon>10</SoLuongTon>
+    <ThongSoKyThuat>Panel: IPS, Độ phân giải: FHD, 60Hz</ThongSoKyThuat>
+    <ThoiGianBaoHanh>36</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>8</MaSP>
+    <TenSP>Chuột Logitech G Pro X Superlight</TenSP>
+    <MaSKU>MOU-LOG-GPX</MaSKU>
+    <MaDanhMuc>12</MaDanhMuc>
+    <MaNCC>5</MaNCC>
+    <GiaBan>2900000</GiaBan>
+    <SoLuongTon>25</SoLuongTon>
+    <ThongSoKyThuat>Không dây, Cảm biến HERO 25K</ThongSoKyThuat>
+    <ThoiGianBaoHanh>24</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+  <SanPham>
+    <MaSP>9</MaSP>
+    <TenSP>Bàn phím cơ Logitech G512 Carbon</TenSP>
+    <MaSKU>KEY-LOG-G512</MaSKU>
+    <MaDanhMuc>11</MaDanhMuc>
+    <MaNCC>5</MaNCC>
+    <GiaBan>1800000</GiaBan>
+    <SoLuongTon>20</SoLuongTon>
+    <ThongSoKyThuat>Switch: GX Brown, Led RGB</ThongSoKyThuat>
+    <ThoiGianBaoHanh>24</ThoiGianBaoHanh>
+    <NgayTao>2025-12-01T20:50:21.153+07:00</NgayTao>
+  </SanPham>
+</NewDataSet>
